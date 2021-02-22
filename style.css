@@ -952,3 +952,15 @@ input {
         width: 300px;
     }
 }
+@media (max-width: 410px) {
+    .img-phone {
+        max-width: 300px;
+    }
+    h1 {
+        font-size: 50px;
+    }
+    .intro__p {
+        letter-spacing: 0.4em;
+        width: 250px;
+    }
+}
